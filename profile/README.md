@@ -4,11 +4,13 @@
 
 <h1 align="center">VoiceVibe</h1>
 
-<p align="center"><b>Your voice. Your vibe. Endless ways to flow.</b></p>
+<p align="center"><b>Talk to your computer. It types, speaks & does what you ask.</b></p>
 
-Press a shortcut anywhere on your computer, speak, and choose where it goes:
-type it, ask the assistant, ask about what's on your screen, transform
-selected text, or hand a task to an AI chat or coding agent.
+Press a key and say what you need. Dictate, rewrite, chat, generate images,
+hear text read aloud, launch agents. Do more without losing your train of
+thought. While you speak, choose where it goes: type it, ask the assistant,
+ask about what's on your screen, transform selected text, or hand a task to
+an AI chat or coding agent.
 Voice typing is free and unlimited, and it runs on your device with
 Parakeet: 100% offline, no account needed.
 
@@ -83,3 +85,5 @@ ideas shape what we build next.
 [Terms](https://voicevibe.ai/terms) ·
 [X](https://x.com/VoiceVibeAI) ·
 [YouTube](https://www.youtube.com/@VoiceVibe-AI)
+
+*Your voice. Your vibe. Endless ways to flow.*
