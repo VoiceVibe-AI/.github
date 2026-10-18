@@ -1,1 +1,1 @@
-VoiceVibe is an AI voice assistant that runs on your computer and works with any app or website.  Simply press a keyboard shortcut and speak - it instantly processes your voice into text, actions, or answers.
+VoiceVibe is an AI voice assistant you can use anywhere on your computer. Press a key and talk. It types, speaks and does what you say.

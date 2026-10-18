@@ -4,13 +4,12 @@
 
 <h1 align="center">VoiceVibe</h1>
 
-<p align="center"><b>Talk to your computer. It types, speaks & does what you ask.</b></p>
+<p align="center"><b>Talk to your computer. It types, speaks & does what you say.</b><br>
+An AI voice assistant you can use anywhere on your computer.</p>
 
-Press a key and say what you need. Dictate, rewrite, chat, generate images,
-hear text read aloud, launch agents. Do more without losing your train of
-thought. While you speak, choose where it goes: type it, ask the assistant,
-ask about what's on your screen, transform selected text, or hand a task to
-an AI chat or coding agent.
+Press a key and talk to dictate, create or transform text. Hear any text
+read aloud. Chat or launch agents and ask for anything. Do more without
+losing your train of thought.
 Voice typing is free and unlimited, and it runs on your device with
 Parakeet: 100% offline, no account needed.
 
@@ -31,7 +30,7 @@ Parakeet: 100% offline, no account needed.
 
 Add context while you speak: selected text, clipboard content, a partial
 or full screenshot, or supported files. VoiceVibe is not always
-listening: you start every recording with your shortcut.
+listening: you start every recording with your key.
 
 ## Free and Pro
 
