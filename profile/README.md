@@ -8,7 +8,7 @@
 An AI voice assistant you can use anywhere on your computer.</p>
 
 Press a key and talk to dictate, create or transform text. Hear any text
-read aloud. Chat or launch agents and ask for anything. Do more without
+read aloud. Chat with AI, or hand a task to an agent. Do more without
 losing your train of thought.
 Voice typing is free and unlimited, and it runs on your device with
 Parakeet: 100% offline, no account needed.
