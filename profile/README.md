@@ -2,7 +2,7 @@
   <img src="https://voicevibe.ai/static/icons/voicevibe-512.png" alt="VoiceVibe" width="96" height="96">
 </p>
 
-<h1 align="center">VoiceVibe</h1>
+<h1 align="center">VoiceVibe – the AI voice assistant app for your computer</h1>
 
 <p align="center"><b>Talk to your computer. It types, speaks & does what you say.</b><br>
 An AI voice assistant you can use anywhere on your computer.</p>
@@ -82,7 +82,6 @@ ideas shape what we build next.
 [Support](https://voicevibe.ai/support) ·
 [Privacy](https://voicevibe.ai/privacy) ·
 [Terms](https://voicevibe.ai/terms) ·
-[X](https://x.com/VoiceVibeAI) ·
 [YouTube](https://www.youtube.com/@VoiceVibe-AI)
 
 *Your voice. Your vibe. Endless ways to flow.*
